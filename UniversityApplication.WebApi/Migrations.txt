@@ -1,0 +1,2 @@
+﻿navigate to Data project, then run 
+dotnet ef migrations add InitialCreateDB --startup-project ../UniversityApplication.WebApi/
